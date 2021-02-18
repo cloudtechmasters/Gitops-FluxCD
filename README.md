@@ -30,7 +30,7 @@ Then, install Flux in your cluster (replace YOURUSER with your GitHub username):
   
   Changed as:
     
-    export GHUSER="naresh240"
+    export GHUSER="cloudtechmasters"
     fluxctl install \
     --git-user=${GHUSER} \
     --git-email=${GHUSER}@users.noreply.github.com \
